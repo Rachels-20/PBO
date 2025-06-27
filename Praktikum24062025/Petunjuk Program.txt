@@ -1,0 +1,21 @@
+Petunjuk Program
+Rachel Setiawan
+2401082013
+
+Rekening 1:
+Nomor Kartu: 2401082013
+Pin : 1234
+
+Rekening 2: 
+Nomor Kartu: 2401082014
+Pin : 5678
+
+Nomor Kartu= No Rekening
+
+fitur:
+-program tetap menyimpan progress 2 rekening selama program masih terbuka.
+-terdapat pengecekan no kartu dan pin saat login dan notifikasi peringatan.
+-tombol cancel di semua halaman kecuali halaman Utama berfungsi untuk menghentikan program.
+-tombol cancel di halaman MenuUtama berfungsi untuk kembali ke halaman login.
+-terdapat pengecekan no rekening, jumlah nominal, dan jumlah saldo harus tersisa di menu transfer. dilengkapi notifikasi peringatan.
+-terdapat pengecekan input nominal, nominal harus lebih dari 0, nominal harus kelipatan 50000, dan minimal saldo 50000 di menu penarikan. dilengkapi notifikasi peringatan.
